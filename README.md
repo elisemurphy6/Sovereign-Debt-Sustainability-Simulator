@@ -1,8 +1,12 @@
 # Sovereign Debt Sustainability Simulator
+## Background
+
+I started this project in the week the U.S. gross national debt passed $40 trillion, in August 2026. In 1999, with the budget in surplus, President Clinton proposed paying off the debt held by the public by 2015. The federal budget ran surpluses from fiscal 1998 through 2001. Today, those years are hard to picture.
+
+This Python project compares debt paths for the United States, France, and Japan. It shows how interest costs, nominal GDP growth, and the primary budget balance shape those paths, then tests how quickly a rate shock can work its way into U.S. debt.
 
 Japan starts with the highest debt-to-GDP ratio in this simulation. It’s also the only country whose ratio falls when 2025 conditions are held constant.
 
-This Python project compares debt paths for the United States, France, and Japan. It shows how interest costs, nominal GDP growth, and the primary budget balance shape those paths, then tests how quickly a rate shock can work its way into U.S. debt.
 
 ## Run locally
 
